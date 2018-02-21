@@ -1,6 +1,6 @@
 # Gulp Template
 
-#### _A template for gulp projects, 10.11.2017_
+#### _A template for gulp projects, 10.12.2017_
 
 #### By _**Margaret Berry & Gabi Gavric**_
 
